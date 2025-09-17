@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Leon from Germany.<br><br>- 🔭 I’m an apprentice software developer<br>- ⚡ I am currently working on some side projects.</p>
+<p align="left">I'm Leon from Germany.<br><br>- 🔭 I’m an apprentice software developer<br>- ⚡ I am currently working on some side projects to learn React.</p>
 
 ###
 
